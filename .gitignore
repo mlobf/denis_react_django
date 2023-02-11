@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+# virtual env
+*myvenv/
+
+# gitignore
+*.gitignore
+
+*.md
